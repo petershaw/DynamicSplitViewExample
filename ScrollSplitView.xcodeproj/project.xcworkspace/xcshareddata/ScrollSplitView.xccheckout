@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>26AAE480-A1BE-47B3-B624-96E3B0BFDB90</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BDCF93995D8405E5A54142FCD8617551F63C75FA</key>
+		<string>https://github.com/petershaw/DynamicScrollViewExample.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ScrollSplitView.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BDCF93995D8405E5A54142FCD8617551F63C75FA</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/petershaw/DynamicScrollViewExample.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BDCF93995D8405E5A54142FCD8617551F63C75FA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BDCF93995D8405E5A54142FCD8617551F63C75FA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ScrollSplitView</string>
+		</dict>
+	</array>
+</dict>
+</plist>
